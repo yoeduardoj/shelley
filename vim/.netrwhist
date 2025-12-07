@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/eduardo/Documents/Dev/caspian/offsets'
+let g:netrw_dirhist_0='/Users/eduardo'
+let g:netrw_dirhist_9='/Users/eduardo/Documents/Dev/shell-tools'
+let g:netrw_dirhist_8='/Users/eduardo/Documents/Dev/kafka-mirror-maker/etc/applebot-prod-aws'
+let g:netrw_dirhist_7='/Users/eduardo/Documents/Dev/kafka-mirror-maker/etc/dev'
+let g:netrw_dirhist_6='/etc'
+let g:netrw_dirhist_5='/Users/eduardo/.aws'
+let g:netrw_dirhist_4='/Users/eduardo/Documents/Dev/beam/test'
+let g:netrw_dirhist_3='/Users/eduardo/Documents/Dev/scv-wilson/snipsy/src/test/resources/images/json'
+let g:netrw_dirhist_2='/Users/eduardo/Documents/Dev/applebot-docker-images/rio-docker/bin'
