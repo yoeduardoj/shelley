@@ -6,3 +6,4 @@ Pre-requisites
 * Install homebrew
 * Install Oh-My-Zsh
 * Use Smyck Terminal.app Theme
+* Run ./install.sh

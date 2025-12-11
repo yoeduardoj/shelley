@@ -26,5 +26,14 @@ git config --global alias.hardreset "reset --hard"
 git config --global alias.prune "remote prune origin"
 git config --global alias.pushf "push --force-with-lease"
 
+OH_CUSTOM_ZSH="$HOME/.oh-my-zsh/custom"
+
+FASTFETCH_ZSH="$OH_CUSTOM_ZSH/zz-fastfetch.sh"
+
+echo "fastfetch" > $FASTFETCH_ZSH && chmod -x $FASTFETCH_ZSH
+
+cp shelley.sh "$OH_CUSTOM_ZSH/aa-shelley.sh"
+
 cp vimrc ~/.vimrc
 cp -R vim ~/.vim
+
